@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Why do we need empty block called react fragment? This is because adjacent JSX elements must be wrapped in an enclosing tag
+
+Props they allow you to pass dynamic data through components and are passed via attributes
+
+State in react is a plain jsx object used to represent a piece of information about the component.
+
+Calling a function in react is know as hook
